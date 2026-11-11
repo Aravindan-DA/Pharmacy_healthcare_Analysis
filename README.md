@@ -1,4 +1,4 @@
-📊 Medx Healthcare Pharmacy - Excel Analytics Dashboard
+📊 Pharmacy Healthcare & Sales Analysis - Excel Analytics Dashboard
 A comprehensive Excel Data Analytics Dashboard built to track, visualize, and analyze sales performance, purchases, tax liability (GST), profitability, and product trends for Medx Healthcare Pharmacy.
 
 📌 Project Overview
